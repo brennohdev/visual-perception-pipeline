@@ -1,0 +1,12 @@
+[project]
+name = "visual-perception-pipeline"
+version = "0.1.0"
+description = "Visual perception pipeline for image processing and computer vision"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.4",
+]
